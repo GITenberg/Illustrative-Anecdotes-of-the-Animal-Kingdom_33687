@@ -1,0 +1,35 @@
+_repo: Illustrative-Anecdotes-of-the-Animal-Kingdom_33687
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goodrich, Samuel G. (Samuel Griswold)
+    aliases:
+    - Goodrich, S. G. (Samuel Griswold)
+    - Parley, Peter
+    - Goodrich, Samuel Griswold
+    birthdate: 1793
+    deathdate: 1860
+    gutenberg_agent_id: '4027'
+    url: http://www.gutenberg.org/2009/agents/4027
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Griswold_Goodrich
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild
+- Animal
+gutenberg_issued: '2010-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33687'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Animals -- Anecdotes'
+- !lcsh 'Animal behavior'
+title: Illustrative Anecdotes of the Animal Kingdom
+url: http://www.gutenberg.org/ebooks/33687
